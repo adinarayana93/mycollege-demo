@@ -1,4 +1,4 @@
 # mycollege-demo
 This is my first Git Repository.
 <br>
-Author - Adi Narayana
+Author - Adi (My College)
